@@ -1,0 +1,15 @@
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\bin\Debug\net6.0\LinqDemos.exe
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\bin\Debug\net6.0\LinqDemos.deps.json
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\bin\Debug\net6.0\LinqDemos.runtimeconfig.json
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\bin\Debug\net6.0\LinqDemos.dll
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\bin\Debug\net6.0\LinqDemos.pdb
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\LinqDemos.csproj.AssemblyReference.cache
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\LinqDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\LinqDemos.AssemblyInfoInputs.cache
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\LinqDemos.AssemblyInfo.cs
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\LinqDemos.csproj.CoreCompileInputs.cache
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\LinqDemos.dll
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\refint\LinqDemos.dll
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\LinqDemos.pdb
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\LinqDemos.genruntimeconfig.cache
+C:\Users\rioca\OneDrive\NAIT\Winter 2023\LinkedIn_Learning_Courses\LinkedInLearningCourses\LinqDemos\LinqDemos\obj\Debug\net6.0\ref\LinqDemos.dll
